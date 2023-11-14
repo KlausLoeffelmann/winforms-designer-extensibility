@@ -1,7 +1,4 @@
-﻿using System.Drawing;
-using System.Windows.Forms;
-
-namespace TileRepeaterDemo
+﻿namespace TileRepeaterDemo
 {
     internal class DarkProfessionalColorTable : ProfessionalColorTable
     {
